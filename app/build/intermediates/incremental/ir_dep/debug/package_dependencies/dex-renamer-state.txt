@@ -1,0 +1,4 @@
+#Wed Nov 28 12:54:23 SGT 2018
+base.0=C\:\\Users\\TARUC\\Desktop\\android-fundamentals-starter-apps-v2-master\\HelloSharedPrefs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
